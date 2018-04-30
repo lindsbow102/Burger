@@ -2,7 +2,7 @@
 CREATE DATABASE burgers_db;
 USE burgers_db;
 
--- Create the table plans.
+-- Create the burger plans.
 CREATE TABLE burgers
 (
 id int NOT NULL AUTO_INCREMENT NOT NULL,
